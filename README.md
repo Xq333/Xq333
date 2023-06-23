@@ -1,15 +1,15 @@
 [![Hello!](./assets/7seconds.gif)](#)
 
 <span align="center">
-	<p>Hi, I'm Pedro! I'm a software engineer student at @42School.</p>
+	<p>Hi, I'm <b>Pedro</b>! I'm a <b>software engineer student</b> at <a href="https://42nice.fr/">@42School</a>.</p>
 </span>
 
 <h2>PROGRAMMING SKILLS</h2>
 
 <span align="center">
 
-	[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
-	[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 
 </span>
 
