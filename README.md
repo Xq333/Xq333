@@ -1,7 +1,7 @@
 [![Hello!](./assets/pedro-cover.gif)](#)
 
 <span align="center">
-	<p>Hi, I'm <b>Pedro</b>! I'm a <b>software engineer student</b> at <a href="https://42nice.fr/">@42School</a>.</p>
+	<p>Hi, I'm <b>Pedro</b>! 👋 I'm a <b>software engineer student</b> at <a href="https://42nice.fr/">@42School</a>.</p>
 </span>
 
 <h2>PROGRAMMING SKILLS</h2>
@@ -10,6 +10,10 @@
 
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
 
 </span>
 
