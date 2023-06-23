@@ -1,4 +1,4 @@
-[![Hello!](./assets/7seconds.gif)](#)
+[![Hello!](./assets/pedro-cover.gif)](#)
 
 <span align="center">
 	<p>Hi, I'm <b>Pedro</b>! I'm a <b>software engineer student</b> at <a href="https://42nice.fr/">@42School</a>.</p>
